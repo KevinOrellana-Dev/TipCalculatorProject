@@ -5,7 +5,7 @@
 
 Submitted by: **Kevin Orellana**
 
-Time spent: **25** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
@@ -23,21 +23,23 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] Allow the user to specify a custom tip percentage.
-- [x] Allow the user to specify whether or not the program must remember the custom tip entered.
+- [x] Allow the user to specify whether or not the program must remember the custom tip percentage entered.
+- [x] Allow the user to split the bill amount between multiple people.
     
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/aqUYomy' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 The biggest challenge for this project was figuring out how view controllers can pass data to each other. After doing some research, I accomplished this by using protocols.
-Addittionally, I had a hard time specifying the correct constrains for all my objects in the app. In spite of these challenges, I throughouly enjoyed completing this project and I am excited to keep learning more.
+Additionally, I had a hard time specifying the correct constrains for all my objects in the app. In spite of these challenges, I thoroughly enjoyed completing this project and I am excited to what is to come.
+
 
 ## License
 
